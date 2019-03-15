@@ -9,4 +9,4 @@ render() {
   })
   return <div className="Header"><nav>{headerLinks}</nav> </div>;
   }
-}
+};
